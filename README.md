@@ -1,4 +1,4 @@
-# Annotated webpack 4 Config
+# Webpack 4 Config for Frontend Web Development
 
 This is the companion github repo for the [An Annotated webpack 4 Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development) article.
 
